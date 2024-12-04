@@ -14,5 +14,6 @@ A reusable and customizable **Date Picker Component** built with **React.js**. T
 - **Visual Preview**: See a visual calendar with the recurring dates and a textual summary.
 - **State Management**: Utilizes the **React Context API** to manage the recurrence state across multiple components.
 
+![Macbook-Air-date-picker-two-amber vercel app](https://github.com/user-attachments/assets/71e6fd96-76f8-4d73-ae19-bd952de50e63)
 
 
